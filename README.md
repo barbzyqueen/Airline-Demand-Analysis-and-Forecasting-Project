@@ -12,7 +12,7 @@ Monthly passenger traffic data from San Francisco International Airport (SFO), c
 
 - **Period:** July 1999 – September 2023
 - **Granularity:** Monthly
-- **Source:** Data.gov
+- **Source:** https://catalog.data.gov/dataset/air-traffic-passenger-statistics 
 
 ### Variables Used
 - **Activity Period Start Date** (independent/time variable)
