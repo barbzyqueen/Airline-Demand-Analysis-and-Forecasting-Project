@@ -1,6 +1,8 @@
 # Airline Passenger Demand Analysis & Forecast
 
 ## Project Overview
+![Airline Passenger Demand Analysis Dashboard](airline_analysis_img.png)
+
 This project analyzes historical passenger traffic data from San Francisco International Airport (SFO) to identify passenger demand patterns, seasonal trends, and the most effective forecasting technique for short-term passenger demand prediction.
 
 The analysis evaluates multiple forecasting models and compares their performance using forecasting error metrics to determine the most reliable model for operational planning and decision-making.
@@ -102,5 +104,3 @@ Presentation summarizing:
 - Key insights
 - Forecasting results
 - Strategic recommendations
-
-![Airline Passenger Demand Analysis Dashboard](airline_analysis_img.png)
