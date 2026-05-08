@@ -104,3 +104,9 @@ Presentation summarizing:
 - Key insights
 - Forecasting results
 - Strategic recommendations
+
+## Video Presentation
+
+Watch the project presentation here:
+
+[Project Presentation Video](https://youtu.be/RmVpOKM0Dj0)
