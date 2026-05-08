@@ -80,21 +80,21 @@ This model is recommended for short-term passenger demand forecasting and operat
 
 ## Files in this Repository
 
-### `airline_passenger_analysis.xlsx`
+### `airline_passenger_analysis_sheet.xlsx`
 Excel workbook containing:
 - Data aggregation
 - Forecasting calculations
 - Model comparison
 - Error metric evaluation
 
-### `airline_passenger_forecast_dashboard.pbix`
+### `airline_passenger_analysis_dashboard.pbix`
 Power BI dashboard containing:
 - Passenger demand trends
 - Seasonality analysis
 - Growth analysis
 - Forecast visuals
 
-### `airline_passenger_forecast_presentation.pptx`
+### `airline_passenger_analysis_presentation.pptx`
 Presentation summarizing:
 - Analysis process
 - Key insights
