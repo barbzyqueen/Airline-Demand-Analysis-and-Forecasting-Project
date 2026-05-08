@@ -83,16 +83,18 @@ This model is recommended for short-term passenger demand forecasting and operat
 ### `airline_passenger_analysis_sheet.xlsx`
 Excel workbook containing:
 - Data aggregation
+- YOY Growth
 - Forecasting calculations
 - Model comparison
 - Error metric evaluation
 
 ### `airline_passenger_analysis_dashboard.pbix`
 Power BI dashboard containing:
-- Passenger demand trends
-- Seasonality analysis
-- Growth analysis
-- Forecast visuals
+- Passenger demand
+- Peak travel months
+- Seasonality trends
+- YOY Growth 
+- Forecast value
 
 ### `airline_passenger_analysis_presentation.pptx`
 Presentation summarizing:
