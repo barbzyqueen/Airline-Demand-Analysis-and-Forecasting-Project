@@ -102,3 +102,5 @@ Presentation summarizing:
 - Key insights
 - Forecasting results
 - Strategic recommendations
+
+![Airline Passenger Demand Analysis Dashboard](airline_analysis_img.png)
